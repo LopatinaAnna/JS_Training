@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0030" tests="14" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-29T08:50:09" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="detectPalindrome function testing" timestamp="2020-09-29T08:50:09" tests="14" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\testtask3\test\palindrome.spec.js" time="0.0030" failures="0">
+    <testcase name="detectPalindrome function testing should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0010" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0000" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0000" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;String is empty&quot; when type of passed argumnent is not an &quot;array&quot;" time="0.0000" classname="should return &quot;String is empty&quot; when type of passed argumnent is not an &quot;array&quot;">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is palindrome! when string is palindrome" time="0.0010" classname="should return &quot;This string is palindrome! when string is palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is palindrome! when string is palindrome" time="0.0000" classname="should return &quot;This string is palindrome! when string is palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is palindrome! when string is palindrome" time="0.0000" classname="should return &quot;This string is palindrome! when string is palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is palindrome! when string is palindrome" time="0.0000" classname="should return &quot;This string is palindrome! when string is palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is palindrome! when string is palindrome" time="0.0000" classname="should return &quot;This string is palindrome! when string is palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is not a palindrome!&quot; when string is not a palindrome" time="0.0000" classname="should return &quot;This string is not a palindrome!&quot; when string is not a palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is not a palindrome!&quot; when string is not a palindrome" time="0.0000" classname="should return &quot;This string is not a palindrome!&quot; when string is not a palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is not a palindrome!&quot; when string is not a palindrome" time="0.0000" classname="should return &quot;This string is not a palindrome!&quot; when string is not a palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is not a palindrome!&quot; when string is not a palindrome" time="0.0010" classname="should return &quot;This string is not a palindrome!&quot; when string is not a palindrome">
+    </testcase>
+    <testcase name="detectPalindrome function testing should return &quot;This string is not a palindrome!&quot; when string is not a palindrome" time="0.0000" classname="should return &quot;This string is not a palindrome!&quot; when string is not a palindrome">
+    </testcase>
+  </testsuite>
+</testsuites>
