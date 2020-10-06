@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0130" tests="14" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-29T11:35:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="TASK2. Get Sum of strings" timestamp="2020-09-29T11:35:35" tests="4" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\functions\test\functions.spec.js" time="0.0090" failures="0">
+    <testcase name="TASK2. Get Sum of strings the sum of 2 strings should be correct" time="0.0090" classname="the sum of 2 strings should be correct">
+    </testcase>
+    <testcase name="TASK2. Get Sum of strings the result of the sum should be converted into a string" time="0.0000" classname="the result of the sum should be converted into a string">
+    </testcase>
+    <testcase name="TASK2. Get Sum of strings the parameters should not be an array or an object" time="0.0000" classname="the parameters should not be an array or an object">
+    </testcase>
+    <testcase name="TASK2. Get Sum of strings the parameters should be a string of numbers" time="0.0000" classname="the parameters should be a string of numbers">
+    </testcase>
+  </testsuite>
+  <testsuite name="TASK3. Get Quantity of Posts By Author" timestamp="2020-09-29T11:35:35" tests="4" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\functions\test\functions.spec.js" time="0.0030" failures="0">
+    <testcase name="TASK3. Get Quantity of Posts By Author should return a string with correct quantity of posts and comments of Rimus" time="0.0010" classname="should return a string with correct quantity of posts and comments of Rimus">
+    </testcase>
+    <testcase name="TASK3. Get Quantity of Posts By Author should return a string with correct quantity of posts and comments of Ivanov" time="0.0010" classname="should return a string with correct quantity of posts and comments of Ivanov">
+    </testcase>
+    <testcase name="TASK3. Get Quantity of Posts By Author should return a string with correct quantity of posts and comments of Uncle" time="0.0000" classname="should return a string with correct quantity of posts and comments of Uncle">
+    </testcase>
+    <testcase name="TASK3. Get Quantity of Posts By Author should return a string with correct quantity of posts and comments of a non-existing author" time="0.0010" classname="should return a string with correct quantity of posts and comments of a non-existing author">
+    </testcase>
+  </testsuite>
+  <testsuite name="TASK1. Tickets " timestamp="2020-09-29T11:35:35" tests="6" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\functions\test\functions.spec.js" time="0.0010" failures="0">
+    <testcase name="TASK1. Tickets  The clerk does not have money to give a change" time="0.0000" classname="The clerk does not have money to give a change">
+    </testcase>
+    <testcase name="TASK1. Tickets  The clerk  has to have money to give a change" time="0.0000" classname="The clerk  has to have money to give a change">
+    </testcase>
+    <testcase name="TASK1. Tickets  The clerk has to have money to give a change" time="0.0000" classname="The clerk has to have money to give a change">
+    </testcase>
+    <testcase name="TASK1. Tickets  The clerk does not have money to give a change" time="0.0000" classname="The clerk does not have money to give a change">
+    </testcase>
+    <testcase name="TASK1. Tickets  The clerk has to have money to give a change" time="0.0000" classname="The clerk has to have money to give a change">
+    </testcase>
+    <testcase name="TASK1. Tickets  The clerk does not have money to give a change" time="0.0010" classname="The clerk does not have money to give a change">
+    </testcase>
+  </testsuite>
+</testsuites>
