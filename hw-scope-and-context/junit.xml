@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0040" tests="10" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-27T21:53:02" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Fighter" timestamp="2020-09-27T21:53:02" tests="10" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\hw-scope-and-context\test\scope-and-context.spec.js" time="0.0040" failures="0">
+    <testcase name="Fighter should create a fighter object" time="0.0010" classname="should create a fighter object">
+    </testcase>
+    <testcase name="Fighter Every property should be private" time="0.0010" classname="Every property should be private">
+    </testcase>
+    <testcase name="Fighter should log fighter&apos;s wins and losses to the console" time="0.0020" classname="should log fighter&apos;s wins and losses to the console">
+    </testcase>
+    <testcase name="Fighter should log to the console" time="0.0000" classname="should log to the console">
+    </testcase>
+    <testcase name="Fighter should add health points" time="0.0000" classname="should add health points">
+    </testcase>
+    <testcase name="Fighter should decrease health points by 100" time="0.0000" classname="should decrease health points by 100">
+    </testcase>
+    <testcase name="Fighter health points should equal 0" time="0.0000" classname="health points should equal 0">
+    </testcase>
+    <testcase name="Fighter should log a message" time="0.0000" classname="should log a message">
+    </testcase>
+    <testcase name="Fighter there should be a loser" time="0.0000" classname="there should be a loser">
+    </testcase>
+    <testcase name="Fighter there should be a message about a dead fighter" time="0.0000" classname="there should be a message about a dead fighter">
+    </testcase>
+  </testsuite>
+</testsuites>
