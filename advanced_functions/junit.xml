@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0140" tests="15" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-25T17:42:24" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="cache function" timestamp="2020-09-25T17:42:24" tests="3" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\advanced_functions\test\advanced-functions.spec.js" time="0.0100" failures="0">
+    <testcase name="cache function should call complex function" time="0.0070" classname="should call complex function">
+    </testcase>
+    <testcase name="cache function should not call complex function again" time="0.0020" classname="should not call complex function again">
+    </testcase>
+    <testcase name="cache function should call complex function if arguments are different" time="0.0010" classname="should call complex function if arguments are different">
+    </testcase>
+  </testsuite>
+  <testsuite name="forwardBackwardStep object" timestamp="2020-09-25T17:42:24" tests="4" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\advanced_functions\test\advanced-functions.spec.js" time="0.0020" failures="0">
+    <testcase name="forwardBackwardStep object It should not return &quot;undefined&quot;" time="0.0000" classname="It should not return &quot;undefined&quot;">
+    </testcase>
+    <testcase name="forwardBackwardStep object It should not return &quot;undefined&quot;" time="0.0000" classname="It should not return &quot;undefined&quot;">
+    </testcase>
+    <testcase name="forwardBackwardStep object Should console log 1" time="0.0010" classname="Should console log 1">
+    </testcase>
+    <testcase name="forwardBackwardStep object Should console log 3" time="0.0010" classname="Should console log 3">
+    </testcase>
+  </testsuite>
+  <testsuite name="applyAll function testing" timestamp="2020-09-25T17:42:24" tests="8" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\advanced_functions\test\advanced-functions.spec.js" time="0.0020" failures="0">
+    <testcase name="applyAll function testing Should return correct sum according to given arguments in function" time="0.0010" classname="Should return correct sum according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct sum according to given arguments in function" time="0.0000" classname="Should return correct sum according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct sum according to given arguments in function" time="0.0000" classname="Should return correct sum according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct sum according to given arguments in function" time="0.0000" classname="Should return correct sum according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct mul according to given arguments in function" time="0.0010" classname="Should return correct mul according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct mul according to given arguments in function" time="0.0000" classname="Should return correct mul according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct mul according to given arguments in function" time="0.0000" classname="Should return correct mul according to given arguments in function">
+    </testcase>
+    <testcase name="applyAll function testing Should return correct mul according to given arguments in function" time="0.0000" classname="Should return correct mul according to given arguments in function">
+    </testcase>
+  </testsuite>
+</testsuites>
