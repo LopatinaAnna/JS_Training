@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0020" tests="9" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-29T08:59:22" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="findVowels function" timestamp="2020-09-29T08:59:22" tests="9" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\testtask4\test\findvowels.spec.js" time="0.0020" failures="0">
+    <testcase name="findVowels function should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0010" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="findVowels function should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0000" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="findVowels function should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;" time="0.0000" classname="should return &quot;Passed argument is not a string&quot; when type of passed argumnent is not an &quot;string&quot;">
+    </testcase>
+    <testcase name="findVowels function should return &quot;String is empty&quot; when string is empty" time="0.0000" classname="should return &quot;String is empty&quot; when string is empty">
+    </testcase>
+    <testcase name="findVowels function should return &quot;String does not contain vowels&quot; when string does not contain vowels" time="0.0010" classname="should return &quot;String does not contain vowels&quot; when string does not contain vowels">
+    </testcase>
+    <testcase name="findVowels function should return &quot;String does not contain vowels&quot; when string does not contain vowels" time="0.0000" classname="should return &quot;String does not contain vowels&quot; when string does not contain vowels">
+    </testcase>
+    <testcase name="findVowels function should return number of vowels" time="0.0000" classname="should return number of vowels">
+    </testcase>
+    <testcase name="findVowels function should return number of vowels" time="0.0000" classname="should return number of vowels">
+    </testcase>
+    <testcase name="findVowels function should return number of vowels" time="0.0000" classname="should return number of vowels">
+    </testcase>
+  </testsuite>
+</testsuites>
