@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0020" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-29T09:06:34" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Text for role function" timestamp="2020-09-29T09:06:34" tests="1" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\text-for-role\test\text-for-role.spec.js" time="0.0020" failures="0">
+    <testcase name="Text for role function Should return a string of reordered phrases according to role" time="0.0020" classname="Should return a string of reordered phrases according to role">
+    </testcase>
+  </testsuite>
+</testsuites>
