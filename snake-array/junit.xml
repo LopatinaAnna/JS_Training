@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0030" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-09-29T09:03:16" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="snakeArray function" timestamp="2020-09-29T09:03:16" tests="4" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\snake-array\test\snake-array.spec.js" time="0.0030" failures="0">
+    <testcase name="snakeArray function Should return two-dimensional array with a spiral snake pattern" time="0.0030" classname="Should return two-dimensional array with a spiral snake pattern">
+    </testcase>
+    <testcase name="snakeArray function Result should be typeof Array." time="0.0000" classname="Result should be typeof Array.">
+    </testcase>
+    <testcase name="snakeArray function Array should have 6 rows." time="0.0000" classname="Array should have 6 rows.">
+    </testcase>
+    <testcase name="snakeArray function Each row should have 7 columns." time="0.0000" classname="Each row should have 7 columns.">
+    </testcase>
+  </testsuite>
+</testsuites>
