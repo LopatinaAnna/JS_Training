@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0070" tests="2" failures="1">
+  <testsuite name="Root Suite" timestamp="2020-09-29T10:53:34" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="sortedByRating" timestamp="2020-09-29T10:53:34" tests="1" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\sorted-array\test\sorted-array.spec.js" time="0.0030" failures="0">
+    <testcase name="sortedByRating Should return sorted array according to rating" time="0.0030" classname="Should return sorted array according to rating">
+    </testcase>
+  </testsuite>
+  <testsuite name="sortedByPrice" timestamp="2020-09-29T10:53:34" tests="1" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\sorted-array\test\sorted-array.spec.js" time="0.0040" failures="1">
+    <testcase name="sortedByPrice Should return sorted array according to price" time="0.0040" classname="Should return sorted array according to price">
+      <failure message="expected [ Array(32) ] to deeply equal [ Array(32) ]" type="AssertionError"><![CDATA[AssertionError: expected [ Array(32) ] to deeply equal [ Array(32) ]
+    at Context.<anonymous> (test\sorted-array.spec.js:339:39)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
