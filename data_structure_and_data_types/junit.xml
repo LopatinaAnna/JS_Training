@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0030" tests="11" failures="11">
+  <testsuite name="Root Suite" timestamp="2020-09-29T11:21:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="validateTitle function testing" timestamp="2020-09-29T11:21:17" tests="7" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\data_structure_and_data_types\test\data_structure-types.spec.js" time="0.0020" failures="7">
+    <testcase name="validateTitle function testing Should return string: &apos;Incorrect input data&apos; according to &apos;false&apos; -  given argument" time="0.0010" classname="Should return string: &apos;Incorrect input data&apos; according to &apos;false&apos; -  given argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:6:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;Incorrect input data&apos; according to [] - given  argument" time="0.0000" classname="Should return string: &apos;Incorrect input data&apos; according to [] - given  argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:10:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;Incorrect input data&apos; according to 15 -  given  argument" time="0.0000" classname="Should return string: &apos;Incorrect input data&apos; according to 15 -  given  argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:14:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;INVALID&apos; according to &apos;s&apos; - given argument" time="0.0000" classname="Should return string: &apos;INVALID&apos; according to &apos;s&apos; - given argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:18:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;INVALID&apos; according to &apos;12title&apos; - given argument" time="0.0000" classname="Should return string: &apos;INVALID&apos; according to &apos;12title&apos; - given argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:22:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;VALID&apos; according to &apos;Title!&apos; - given argument" time="0.0010" classname="Should return string: &apos;VALID&apos; according to &apos;Title!&apos; - given argument">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:26:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="validateTitle function testing Should return string: &apos;VALID&apos; according to &apos;Title? - given argument&apos;" time="0.0000" classname="Should return string: &apos;VALID&apos; according to &apos;Title? - given argument&apos;">
+      <failure message="x is not defined" type="ReferenceError"><![CDATA[ReferenceError: x is not defined
+    at validateTitle (src\data_structure-types.js:4:7)
+    at Context.<anonymous> (test\data_structure-types.spec.js:30:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="sum function testing" timestamp="2020-09-29T11:21:17" tests="4" file="D:\CSHARP-LEARNING\EPAM\Projects\22 JS\data_structure_and_data_types\test\data_structure-types.spec.js" time="0.0010" failures="4">
+    <testcase name="sum function testing Should return sum - 10,  according to given arguments - (&apos;25&apos;,10) " time="0.0010" classname="Should return sum - 10,  according to given arguments - (&apos;25&apos;,10) ">
+      <failure message="checkDivisible is not defined" type="ReferenceError"><![CDATA[ReferenceError: checkDivisible is not defined
+    at sum (src\data_structure-types.js:13:20)
+    at Context.<anonymous> (test\data_structure-types.spec.js:38:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="sum function testing Should return sum - 44,  according to given arguments - (41,&apos;3&apos;) " time="0.0000" classname="Should return sum - 44,  according to given arguments - (41,&apos;3&apos;) ">
+      <failure message="checkDivisible is not defined" type="ReferenceError"><![CDATA[ReferenceError: checkDivisible is not defined
+    at sum (src\data_structure-types.js:13:20)
+    at Context.<anonymous> (test\data_structure-types.spec.js:42:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="sum function testing Should return sum - -42,  according to given arguments - (&apos;3&apos;,45) " time="0.0000" classname="Should return sum - -42,  according to given arguments - (&apos;3&apos;,45) ">
+      <failure message="checkDivisible is not defined" type="ReferenceError"><![CDATA[ReferenceError: checkDivisible is not defined
+    at sum (src\data_structure-types.js:13:20)
+    at Context.<anonymous> (test\data_structure-types.spec.js:46:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+    <testcase name="sum function testing Should return sum - 0,  according to given arguments - (&apos;15&apos;,15) " time="0.0000" classname="Should return sum - 0,  according to given arguments - (&apos;15&apos;,15) ">
+      <failure message="checkDivisible is not defined" type="ReferenceError"><![CDATA[ReferenceError: checkDivisible is not defined
+    at sum (src\data_structure-types.js:13:20)
+    at Context.<anonymous> (test\data_structure-types.spec.js:50:12)
+    at processImmediate (internal/timers.js:456:21)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
