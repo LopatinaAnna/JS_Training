@@ -1,11 +1,7 @@
 'use strict'
 
 function convert() {
-    let result = [];
-    Array.from(arguments).forEach(el => typeof el == 'string' ?
-        result.push(parseInt(el)) :
-        result.push(el + ''));
-    return result;
+    return Array.from(arguments).map(el => (typeof el === 'string') ? parseInt(el) : (el + ''));
 }
 
 const executeforEach = (array, func) => {
@@ -13,20 +9,11 @@ const executeforEach = (array, func) => {
 };
 
 const mapArray = (array, func) => {
-    let result = [];
-    array.forEach(el => {
-        result.push(func(parseInt(el)))
-    });
-    return result;
+    return array.map(el => func(parseInt(el)));
 };
 
 const filterArray = (array, func) => {
-    let result = [];
-    array.forEach(el => {
-        if (func(el))
-            result.push(el)
-    });
-    return result;
+    return array.filter(el => func(el));
 };
 
 const flipOver = (str) => {
